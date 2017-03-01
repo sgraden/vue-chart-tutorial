@@ -1,7 +1,8 @@
 # vue-charts
 
 > A tutorial for using vue and charts
-> Tutorial from Medium Article: https://medium.com/@apertureless/creating-stunning-charts-with-vue-js-and-chart-js-28af584adc0a#.avnjsesxp
+
+Tutorial from Medium Article: https://medium.com/@apertureless/creating-stunning-charts-with-vue-js-and-chart-js-28af584adc0a#.avnjsesxp
 
 ## Build Setup
 
